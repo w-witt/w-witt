@@ -1,7 +1,5 @@
 - Hi, I’m Will
-- I’m interested in space and mathematics
-- I’m currently learning Applied Mathematics at Old Dominion University 
-- I’m looking to collaborate on anything Data Analylitics 
+- I’m currently a PhD candidate in Computational and Applied Mathematics with a concentration in Mathematics of Data Science at Old Dominion University 
 - How to reach me @ wwitt003@odu.edu
 
 <!---
